@@ -1,6 +1,6 @@
-#README
+# README
 
-##Codename: Whistle
+## Codename: Whistle
 Bid Whist card game written in C# using WPF.  Intially the 
 [Straight Whist (_also called 52 card Whist_)](http://www.pagat.com/boston/bidwhist.html#52) variation of Bid Whist.  
 The classic game of [Whist](http://www.pagat.com/whist/whist.html) which was played widely in the 18th and 19th centuries. Whist was derived from the older game 
