@@ -23,8 +23,7 @@ be welcome.  Thank you.
 
 _Please note that this is a work in progress and should at all times be buildable, but with limited functionality
 that will be increasing as I develop the game in my spare time.  I have a full-time job developing software in C#.Net
-and am kept quite busy with work projects.  I would however, like to offer a commitment that I will at some point
-finish this application.  Likely through a process of slow but consistent feature development._
+and am kept quite busy with work projects._
 
 
 
